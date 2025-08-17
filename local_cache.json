@@ -1,0 +1,38 @@
+[
+  {
+    "country": "PAN",
+    "indicator": "SH.IMM.MEAS",
+    "year": 2000,
+    "value": 78.0
+  },
+  {
+    "country": "PAN",
+    "indicator": "SH.IMM.MEAS",
+    "year": 2001,
+    "value": 80.0
+  },
+  {
+    "country": "PAN",
+    "indicator": "SH.IMM.MEAS",
+    "year": 2002,
+    "value": 82.5
+  },
+  {
+    "country": "PAN",
+    "indicator": "SH.IMM.MEAS",
+    "year": 2010,
+    "value": 89.3
+  },
+  {
+    "country": "PAN",
+    "indicator": "SH.IMM.MEAS",
+    "year": 2020,
+    "value": 91.0
+  },
+  {
+    "country": "PAN",
+    "indicator": "SH.IMM.MEAS",
+    "year": 2023,
+    "value": 90.0
+  }
+]
